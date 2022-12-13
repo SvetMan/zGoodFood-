@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@1,500&family=Caveat:wght@400;700&family=Comfortaa:wght@500&family=Comforter&family=Dancing+Script:wght@700&family=Fira+Sans&family=Lobster&family=Montserrat:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&family=Noto+Serif+Display:ital,wght@1,500&family=Open+Sans+Condensed:ital,wght@1,300&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@1,500&family=Caveat:wght@400;700&family=Comfortaa:wght@500&family=Comforter&family=Dancing+Script:wght@700&family=Fira+Sans&family=Lobster&family=Montserrat:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&family=Noto+Serif+Display:ital,wght@1,500&family=Open+Sans+Condensed:ital,wght@1,300&family=Pacifico&family=Roboto+Serif:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@1,500&family=Caveat:wght@400;700&family=Comfortaa:wght@500&family=Comforter&family=Dancing+Script:wght@700&family=Fira+Sans&family=Lobster&family=Montserrat:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&family=Noto+Serif+Display:ital,wght@1,500&family=Open+Sans+Condensed:ital,wght@1,300&family=PT+Sans:wght@700&family=Pacifico&family=Roboto+Serif:wght@100&display=swap');
+
+body {
+    margin: 0px 110px 110px 110px;
+    display: block;
+    background: url(img/bg.jpg);
+}
+
+img {
+    vertical-align: middle;
+    margin-top: 30px;
+}
+
+li {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    list-style-type: none;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    vertical-align: top;
+    text-align: center;
+}
+
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+hr {
+    height: 3px;
+    margin: 20px auto;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 90px;
+}
+
+
+h3 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}
+
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    line-height: 30px;
+}
+
+p {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.tire {
+    margin-bottom: 50px;
+    background: #ffffff;
+    max-width: 30px;
+}
+.red {
+    color: rgba(252, 91, 120);
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+.blu {
+    background: rgba(243, 247, 250);
+    padding-bottom: 30px;
+
+}
+
+#black {
+    color: white;
+    background-color: black;
+}
+
+
+.color {
+    background: white;
+}
+
+.sss {
+    color: #666;
+}
+
+#qaz {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.button {
+    background-color: #333;
+    border-radius: 4px;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+}
+
+i {
+    padding: 11px 12px;
+    display: block;
+  
+    color: #ffffff;
+    background-color: #DE5781;
+    width: 15px;
+    height: 14px;
+    border-radius: 50%;
+}
+
+.salad {
+    padding-bottom: 30px;
+}
+
+.cvet {
+    background-image: url(img/.jpg);
+}
+
+.izo {
+    background: url(img/event.jpg) no-repeat;
+    height: 320px;
+}
+
+#zzz {
+    margin-right: 45px;
+
+}
+
+#aaa {
+    margin-right: 35px;
+}
